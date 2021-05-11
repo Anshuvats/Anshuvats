@@ -3,15 +3,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuvats&label=Profile%20views&color=0e75b6&style=flat" alt="anshuvats" /> </p>
 
+
+<a href="https://twitter.com/AnshuKu23990024">
+  <img align="left" alt="Anshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anshu-unstoppable/">
+  <img align="left" alt="Anshu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/unstoppable_anshu/">
+  <img align="left" alt="Anshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br/>
+<br/>
+
 - 🌱 I’m currently learning **ReactJS, Spring-Boot**
 
-- 💬 Ask me about **C++, Data Structures & Algorithm, Javascript ,Java Backend Development**
+- 💬 Ask me about **C++, Java, Data Structures & Algorithm, Javascript, Computer-Science-Fundamental, Anything for career plans**
 
 - 📫 How to reach me **anshuunstoppable@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1h70iKEzNiZIj3opfedLEHhmIy29-IXrS/view?usp=sharing](https://drive.google.com/file/d/1h70iKEzNiZIj3opfedLEHhmIy29-IXrS/view?usp=sharing)
 
-- ⚡ Fun fact **I love to learn from scratch.**
+- ⚡ Fun fact **I love to learn from scratch anything.**
 
 
 <h3 align="left">Languages and Tools:</h3>
