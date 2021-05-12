@@ -21,9 +21,9 @@
 
 - 💬 Ask me about **C++, Java, Data Structures & Algorithm, Javascript, Computer-Science-Fundamental, Anything for career plans**
 
-- 📫 How to reach me **anshuunstoppable@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h70iKEzNiZIj3opfedLEHhmIy29-IXrS/view?usp=sharing](https://drive.google.com/file/d/1h70iKEzNiZIj3opfedLEHhmIy29-IXrS/view?usp=sharing)
+- 📫 How to reach me [📧](https://mail.google.com/mail/u/0/?fs=1&to=anshuunstoppable@gmail.com&su=Enquiry&tf=cm)
+  
+- 📄 Know about my experiences [Resume-SDE-1](https://drive.google.com/file/d/1h70iKEzNiZIj3opfedLEHhmIy29-IXrS/view?usp=sharing)
 
 - ⚡ Fun fact **I love to learn from scratch anything.**
 
