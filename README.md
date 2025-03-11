@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Java Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuvats&label=Profile%20views&color=0e75b6&style=flat" alt="anshuvats" /> </p>
 
@@ -17,13 +17,13 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning **ReactJS, Spring-Boot**
+- 🌱 I’m currently learning **Spring-Boot,Spring-Microservices,Design-Patterns,System-Design[HLD&LLD]**
 
-- 💬 Ask me about **C++, Java, Data Structures & Algorithm, Javascript, Computer-Science-Fundamental, Anything for career plans**
+- 💬 Ask me about **Java, Data Structures & Algorithm, Spring Boot, Computer-Science-Fundamental, Anything for career plans**
 
 - 📫 How to reach me [📧](https://mail.google.com/mail/u/0/?fs=1&to=anshuunstoppable@gmail.com&su=Enquiry&tf=cm)
   
-- 📄 Know about my experiences [Resume-SDE-1](https://drive.google.com/file/d/1h2XLoHhJX9d9LCXwcwFgjyuEMNz2t4HL/view?usp=sharing)
+- 📄 Know about my experiences [Resume-Anshu-Kumar-4YoE-SDE](https://drive.google.com/file/d/1rd09iR1zFUpkFSPbNKHD5mg5IM-hwKS1/view?usp=sharing)
 
 - ⚡ Fun fact **I love to learn from scratch anything.**
 
